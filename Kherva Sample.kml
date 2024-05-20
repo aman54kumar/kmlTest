@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Kherva Sample</name>
+	<gx:CascadingStyle kml:id="__managed_style_033B3C04C730CB49F903">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_4C2C58844230CB49F902">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2B3A15A54930CB49F903">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_3279FFB20C30CB49F902">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_4C2C58844230CB49F902</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_033B3C04C730CB49F903</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_19CAFD83C330CB49F903">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_2B3A15A54930CB49F903</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_333030F6CD30CB49F903</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2B812A91F630CB49F902">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/none_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>0.9</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1F0D7DF9D630CB49F902">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/none_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>0.75</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_333030F6CD30CB49F903">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0A6C8C207330CB49F902">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1F0D7DF9D630CB49F902</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2B812A91F630CB49F902</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0515B8883130CB44BFAF">
+		<name>Sample KML</name>
+		<LookAt>
+			<longitude>72.44141318688422</longitude>
+			<latitude>23.5437664484075</latitude>
+			<altitude>113.748530384675</altitude>
+			<heading>9.512878271344508</heading>
+			<tilt>0</tilt>
+			<gx:fovy>84.0457693</gx:fovy>
+			<range>200.7609817248158</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A6C8C207330CB49F902</styleUrl>
+		<Point>
+			<coordinates>72.44171592694678,23.54463782192017,114.9000254731521</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E6807AFC630CB467D35">
+		<name>Untitled placemark</name>
+		<LookAt>
+			<longitude>72.44149979828308</longitude>
+			<latitude>23.54429837412074</latitude>
+			<altitude>114.4760149433367</altitude>
+			<heading>9.513043821653847</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>209.5590361985888</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3279FFB20C30CB49F902</styleUrl>
+		<Point>
+			<coordinates>72.44155223990666,23.54460928031876,114.5277273896483</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0997E2BE2130CB488993">
+		<name>Kherva Polygon</name>
+		<description><![CDATA[<div>For Sample</div>]]></description>
+		<LookAt>
+			<longitude>72.44168873668741</longitude>
+			<latitude>23.54461658807715</latitude>
+			<altitude>114.3441545489875</altitude>
+			<heading>9.513063742270498</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>326.3483171261396</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_19CAFD83C330CB49F903</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						72.44146387582039,23.54449804855689,0 72.44139410680896,23.54437999444493,0 72.44131931203287,23.54416402292575,0 72.44127588639502,23.54398101755737,0 72.44149077555967,23.54396437452364,0 72.44152502010994,23.54415117666487,0 72.4417460619137,23.54412775321432,0 72.44176828788511,23.54426832978317,0 72.44172284350913,23.54463485395732,0 72.44155650830142,23.54462279486803,0 72.44146387582039,23.54449804855689,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
